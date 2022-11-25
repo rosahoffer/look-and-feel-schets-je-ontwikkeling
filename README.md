@@ -1,11 +1,19 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Schets je ontwikkeling
 
-# Naam deeltaak
+**Inzicht te krijgen over mijn kwaliteiten, door middel van een praatplaat!**
+
+Bekijk mijn wiki voor het werkproces!
 
 
-## Licentie
+### Kenmerken
+
+***
+
+Deze opdracht is gemaakt met teken-materiaal.
+
+### Licentie
+
+***
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
